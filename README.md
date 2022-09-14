@@ -13,7 +13,7 @@
  6. Determine the county with the most votes 
 
 ## Resources 
-- Data Source: election_results.csv
+- Data Source: Resources/election_results.csv
 - Source code: PyPoll_Challenge.py 
 - Output File: analysis/election_results.txt 
 - Software: Python 3.9.12, Visual Studio Code,  1.71.0 (Universal)
